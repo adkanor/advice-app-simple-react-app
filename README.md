@@ -1,4 +1,4 @@
-# Step Project Cards
+# Step Project Get Advice
 
 This simple site allows you to get advice at the click of a button.
 Advice Slip API was used to receive advice from the server. Here it is: https://api.adviceslip.com
